@@ -16,7 +16,7 @@ A simple and effective website to test your laptop's hardware components includi
 ---
 
 ## 🌐 Live Demo
-https://sushant-gawade.github.io/laptop-test/)
+https://sushant-gawade.github.io/laptop-test/
 
 ---
 
@@ -33,5 +33,5 @@ https://sushant-gawade.github.io/laptop-test/)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/laptop-test-website.git
+   git clone https://github.com/sushant-gawade/laptop-test-website.git
    cd laptop-test-website

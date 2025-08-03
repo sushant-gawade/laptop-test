@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 20px;
+}
+h1 {
+  color: #333;
+}
+.test-buttons {
+  margin: 20px;
+}
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+#test-area {
+  margin-top: 30px;
+  min-height: 300px;
+  border: 2px dashed #ccc;
+  padding: 20px;
+  background-color: #fff;
+}
+.fullscreen-color {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1000;
+}

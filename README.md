@@ -16,9 +16,7 @@ A simple and effective website to test your laptop's hardware components includi
 ---
 
 ## 🌐 Live Demo
-
-[🔗 Click here to try the live demo](#)  
-*Add your GitHub Pages or hosted site link here*
+https://sushant-gawade.github.io/laptop-test/)
 
 ---
 

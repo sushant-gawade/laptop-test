@@ -32,7 +32,7 @@ function keyboardTest() {
 function speakerTest() {
   const area = document.getElementById("test-area");
   area.innerHTML = "<h2>Speaker Test</h2><p>If you hear a sound, your speaker works.</p>";
-  const audio = new Audio("https://www.soundjay.com/button/beep-07.wav");
+  const audio = new Audio("beep.wav");
   audio.play();
 }
 
